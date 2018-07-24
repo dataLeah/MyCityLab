@@ -1,2 +1,2 @@
 # MyCityLab
-For a planner who is interest in data
+For a planner who is interested in data
